@@ -1,2 +1,2 @@
-# virtual_environments_for_single_cell_analysis
-Materials for workshop on setting up a virtual environment for single cell analysis
+# Virtual Environments for Single Cell Analysis
+This repo holds the slides from the Spring 2025 workshop on setting up virtual environments for single cell analysis with python.
